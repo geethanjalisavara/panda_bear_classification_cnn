@@ -32,7 +32,7 @@ You can install any missing packages using pip:
 
 📈 Notes
 The model is simple and trained on a small dataset — accuracy may decrease on very different images.
-For production or deployment, a larger dataset and more complex model is recommended.
+
 
 
 🏆 Author
